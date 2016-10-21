@@ -1,0 +1,19 @@
+{
+  "name": "nodeweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodeweb.js",
+  "dependencies": {
+    "android-gcm": "^0.1.5",
+    "express": "^4.13.4",
+    "body-parser": "^1.15.2",
+    "moment": "^2.14.1",
+    "mongoose": "^4.5.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
